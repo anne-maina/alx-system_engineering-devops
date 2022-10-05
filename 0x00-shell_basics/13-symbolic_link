@@ -1,4 +1,2 @@
-#!/bin/b
-ash
-ln -s /b
-in/ls _ls_
+#!/bin/bash
+ln -s /bin/ls _ls_
