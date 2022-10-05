@@ -1,1 +1,4 @@
-ln -s /bin/ls _ls_
+#!/bin/b
+ash
+ln -s /b
+in/ls _ls_
